@@ -1,0 +1,245 @@
+body {
+	margin: 0;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+
+/* header-area starts */
+.header-area {
+	background: #87509c;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 600;
+}
+.header-area .button-area a {
+	background: #eb7d4b;
+	font-weight: 600;
+	transition: 1s;
+}
+.header-area .button-area {
+	padding-bottom: 150px;
+}
+.header-area a {
+	transition: 1s;
+}
+.header-area a:hover {
+	background: red;
+}
+.header-area .text-area h1 {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700;
+	padding-top:130px;
+	padding-bottom: 75px;
+}
+/* header-area ends */
+
+
+
+/* service-area starts */
+	
+.service-area {
+	background:#17c2a4;
+	font-family: 'Titillium Web', sans-serif;
+}
+.service-area .heading h1 {
+	padding-top: 120px;
+	letter-spacing: 3px;
+}
+.service-area .heading p {
+	font-weight: 500;
+	padding-top:15px;
+	padding-bottom: 120px;
+	font-size: 20px;
+}
+hr {
+	height:2px;
+	width: 10%;
+	color: white;
+	background: red;
+	position: center;
+	border-radius:3px;
+}
+.service-area .logo-area h3 {
+	font-weight: 600;
+	font-size: 24px;
+	letter-spacing: 1px;
+}
+.service-area .logo-area p {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 500;
+	padding-bottom: 120px;
+}
+/* service-area ends */
+
+
+/* team-area starts */
+.team-area {
+	background: #e7f1f8;
+	font-family: 'Titillium Web', sans-serif;
+	color: #3c4761;
+}
+.team-area .heading h1 {
+	padding-top:120px;
+	letter-spacing: 3px;
+}
+.team-area .heading p {
+	font-weight: 500;
+	padding-top:15px;
+	padding-bottom: 120px;
+	font-size: 20px;
+	text-align: justify;
+}
+.team-area img {
+	width: 100%;
+	height: auto;
+}
+.team-area h3 {
+	font-weight: 600;
+	font-size: 24px;
+	letter-spacing: 1px;
+}
+.team-area a {
+	transition: 1s;
+	}
+.team-area a:hover { 
+	color: red;
+}
+
+
+
+/* teams -area ends */
+
+
+/* skills -area starts */
+.skill-area {
+	background: #ffffff;
+	font-family: 'Titillium Web', sans-serif;
+	color: #3c4761;
+}
+.skill-area .heading-area h1 {
+	padding-top:120px;
+	letter-spacing: 3px;
+}
+.skill-area .heading-area p {
+	font-weight: 500;
+	padding-top:15px;
+	padding-bottom: 120px;
+	font-size: 20px;
+}
+.skill-area h3 {
+	font-weight: 600;
+	font-size: 24px;
+	letter-spacing: 1px;
+	padding-bottom: 120px;
+}
+/* skills-area ends */
+
+
+/* protfolio area starts */
+.protfolio-area {
+	background: #ffdd99;
+	font-family: 'Titillium Web', sans-serif;
+	color: #3c4761;
+}
+.protfolio-area .heading-area h1 {
+	padding-top:120px;
+	letter-spacing: 3px;
+}
+.protfolio-area .heading-area p {
+	font-weight: 500;
+	padding-top:15px;
+	padding-bottom:20px;
+	font-size: 20px;
+}
+.protfolio-area h3 {
+	font-weight: 400;
+	font-size: 18px;
+	padding-bottom: 120px;
+}
+.protfolio-area .nav-item a {
+	background:#ebc985;
+	transition: 1s;
+}
+.protfolio-area .nav-item a:hover {
+	background: red;
+}
+.protfolio-area .button-area a {
+	background: #17c2a4;
+	font-weight: 600;
+	transition: 1s;
+}
+.protfolio-area .button-area a:hover {
+	background: red;
+}
+/* protfolio-area ends	 */
+
+
+/* about-area starts */
+.about-area {
+	background: #d74680;
+	font-family: 'Titillium Web', sans-serif;
+	color: white;
+}
+.about-area .heading-area h1 {
+	padding-top:120px;
+	letter-spacing: 1.5px;
+}
+.about-area .heading-area p {
+	font-weight: 500;
+	font-size: 20px;
+}
+.about-area h4 {
+	font-weight: 700;
+	font-size: 22px;
+}
+.about-area .box {
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background: green;
+}
+.about-area i {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 20px;
+}
+/* about-area ends	 */
+
+
+/* touch-area starts */
+.touch-area {
+	background: #3c5499;
+	font-family: 'Titillium Web', sans-serif;
+	color: white;
+}
+.touch-area .heading-area h1 {
+	letter-spacing: 1.5px;
+}
+.touch-area .heading-area p {
+	font-weight: 500;
+	font-size: 20px;
+}
+.touch-area .form-control {
+	background: #273a71;
+	color: white;
+	font-weight: 600;
+	font-size: 20px;
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
